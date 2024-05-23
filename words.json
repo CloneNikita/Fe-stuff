@@ -360,5 +360,25 @@
 		"words": [
 			"Lean"
 		]
+	},
+	"facts": {
+		"name": "Facts about Lordy",
+		"words": [
+			"Laziness",
+			"Exploiting",
+			"Aimbot User",
+			"Programming",
+			"Making scripts"
+		]
+	}
+	"cheating": {
+		"name": "Cheating & Exploiting",
+		"words": [
+			"Aimbot",
+			"Silent Aim",
+			"Server Sided Executor",
+			"Remote & Function Firing",
+			"Byfron Bypass"
+		]
 	}
 }
